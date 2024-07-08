@@ -1,4 +1,4 @@
-- Hi, I’m Misha
+- Hi, I’m Michael
 - You are wellcome to check my profile
 - I’m interested in IT field
 - I’m currently learning Swift
